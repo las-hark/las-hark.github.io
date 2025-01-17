@@ -177,7 +177,9 @@ class Experience extends Component {
                   className="experience-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {experience["description"]}
+                  {experience["description1"]}
+                  <br />
+                  {experience["description2"]}
                 </p>
               </div>
             </div>
