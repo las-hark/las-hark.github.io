@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8bc527c72e77c1cf9b77c519c971d4c",
+    "revision": "3b575a1d2c929bc6c656371a7e965a38",
     "url": "/index.html"
   },
   {
-    "revision": "babc0db99d0a03b90d93",
-    "url": "/static/css/main.a93484e0.chunk.css"
+    "revision": "e5fc0dfd92405fc0ce6d",
+    "url": "/static/css/main.7401f41f.chunk.css"
   },
   {
-    "revision": "8cf6c6d555d96c55d598",
-    "url": "/static/js/2.b1078b53.chunk.js"
+    "revision": "ea2ca3cf08dc5ec4016a",
+    "url": "/static/js/2.8d06887d.chunk.js"
   },
   {
-    "revision": "babc0db99d0a03b90d93",
-    "url": "/static/js/main.bef789a4.chunk.js"
+    "revision": "e5fc0dfd92405fc0ce6d",
+    "url": "/static/js/main.fc86f782.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "ba5c29bc74e85420b64c6cb05ec3a799",
+    "url": "/static/media/chatbot.ba5c29bc.png"
+  },
+  {
+    "revision": "5dc35fceefee469d15c86c590d7f8175",
+    "url": "/static/media/cl.5dc35fce.jpg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -232,6 +240,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "415082f06ea5b24cb78300c4d7c2515d",
+    "url": "/static/media/needle.415082f0.jpg"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "/static/media/nptel_logo.95a12a2b.png"
   },
@@ -250,6 +262,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "85e7cdc33c5c5b95f92878df1bf5dd40",
+    "url": "/static/media/snow.85e7cdc3.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
